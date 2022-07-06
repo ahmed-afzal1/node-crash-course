@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ahmed-afzal1/node-crash-course/issues"
   },
-  "homepage": "https://github.com/ahmed-afzal1/node-crash-course#readme"
+  "homepage": "https://github.com/ahmed-afzal1/node-crash-course#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
